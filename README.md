@@ -1,9 +1,9 @@
 Редактирование
 ===
 
+[![Build status](https://ci.appveyor.com/api/projects/status/773icdp6f61bgp7j?svg=true)](https://ci.appveyor.com/project/Oulegich/ra16-homeworks-redux)
 
-
-[Ссылка на Github Pages]()
+[Ссылка на Github Pages](https://oulegich.github.io/ra16-homeworks-redux/)
 
 Этот проект не предполагает взаимодействия по протоколу HTTP и наличия серверной части.
 
